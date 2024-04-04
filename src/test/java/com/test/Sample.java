@@ -14,6 +14,9 @@ public class Sample {
 		Sample m= new Sample();
 		m.Raj();
 		System.out.println("rajan");
+		System.out.println("rajan");
+		System.out.println("rajan");
+		
 		
 		
 		

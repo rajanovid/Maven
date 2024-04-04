@@ -6,6 +6,12 @@ public class Sample {
 	
 	int a=10;
 	int b=20;
+	if(a==b) {
+		System.out.println("good");
+	}
+		else {
+			System.out.println("illla");
+		}
 	
 	int d=a+b;
 	System.out.println(d);
@@ -16,6 +22,7 @@ public class Sample {
 		System.out.println("rajan");
 		System.out.println("rajan");
 		System.out.println("rajan");
+		
 		
 		
 		

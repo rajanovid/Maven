@@ -12,13 +12,14 @@ public class Sample {
 		else {
 			System.out.println("illla");
 		}
-	
 	int d=a+b;
 	System.out.println(d);
+	System.out.println("ammu enna panra");
 	//enna panra saptiya unaku 
 	//enna pathi 
 	//enna thirium 
 	}
+	
 	public static void main(String[] args) {
 		Sample m= new Sample();
 		m.Raj();

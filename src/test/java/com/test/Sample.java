@@ -8,6 +8,12 @@ public class Sample {
 	int b=20;
 	if(a==b) {
 		System.out.println("good");
+		
+		
+		
+		
+		
+		
 	}
 		else {
 			System.out.println("illla");

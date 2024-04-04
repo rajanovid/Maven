@@ -26,6 +26,10 @@ public class Sample {
 		System.out.println("rajan");
 		System.out.println("rajan");
 		System.out.println("rajan");
+		System.out.println("MMU");
+		System.out.println("ADDDD");
+				
+		
 		
 		
 		

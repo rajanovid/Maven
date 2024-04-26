@@ -14,6 +14,12 @@ public class Sample {
 		}
 	int d=a+b;
 	System.out.println(d);
+	
+	int e=a+b;
+	System.out.println("new line added");
+	
+	
+	
 	System.out.println("ennama ipdi panringale ma");
 	System.out.println("ammu enna panra");
 	//enna panra saptiya unaku 

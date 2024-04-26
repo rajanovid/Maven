@@ -4,7 +4,9 @@ public class Sample {
 	public void Raj() {
 		
 	
+		int z=34;
 	int a=10;
+	int f=12;
 	int b=20;
 	if(a==b) {
 		System.out.println("good");
